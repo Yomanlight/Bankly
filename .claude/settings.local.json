@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(pkill:*)",
+      "Bash(taskkill:*)",
+      "Bash(grep:*)",
+      "Bash(npx eas-cli:*)",
+      "Bash(node -e:*)",
+      "Bash(npx expo-doctor:*)",
+      "Bash(npx firebase-tools:*)"
+    ]
+  }
+}
